@@ -69,13 +69,13 @@ java Client
 
 ## 📸 Demo
 
-### **Client and Server Screenshots:**
+### **Users Screenshots:**
 
-#### Client View
-![Client View](https://drive.google.com/thumbnail?id=1k2flDKq3s3ILc91tKvY0Rn3ucAmFFw2L)
+#### User 1 View
+<img src="https://drive.google.com/uc?id=1k2flDKq3s3ILc91tKvY0Rn3ucAmFFw2L" width="600"/>
 
-#### Server View
-![Server View](https://drive.google.com/thumbnail?id=185CTNlbqW1wK7jxXzeSeaEAZyyZWBaUB)
+#### User 2 View
+<img src="https://drive.google.com/uc?id=185CTNlbqW1wK7jxXzeSeaEAZyyZWBaUB" width="600"/>
 
 ---
 
