@@ -71,11 +71,11 @@ java Client
 
 ### **Client and Server Screenshots:**
 
-#### User 1 View
-![User1 View](https://drive.google.com/uc?id=185CTNlbqW1wK7jxXzeSeaEAZyyZWBaUB)
+#### Client View
+![Client View](https://drive.google.com/thumbnail?id=1k2flDKq3s3ILc91tKvY0Rn3ucAmFFw2L)
 
-#### User 2 View
-![User2 View](https://drive.google.com/file/d/1k2flDKq3s3ILc91tKvY0Rn3ucAmFFw2L)
+#### Server View
+![Server View](https://drive.google.com/thumbnail?id=185CTNlbqW1wK7jxXzeSeaEAZyyZWBaUB)
 
 ---
 
