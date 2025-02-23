@@ -71,10 +71,10 @@ java Client
 
 ### **Users Screenshots:**
 
-#### User 1 View
+#### User 2 View
 <img src="https://drive.google.com/uc?id=1k2flDKq3s3ILc91tKvY0Rn3ucAmFFw2L" width="600"/>
 
-#### User 2 View
+#### User 1 View
 <img src="https://drive.google.com/uc?id=185CTNlbqW1wK7jxXzeSeaEAZyyZWBaUB" width="600"/>
 
 ---
