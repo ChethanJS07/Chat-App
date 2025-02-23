@@ -75,7 +75,7 @@ java Client
 ![User1 View](https://drive.google.com/uc?id=185CTNlbqW1wK7jxXzeSeaEAZyyZWBaUB)
 
 #### User 2 View
-![User2 View](https://drive.google.com/file/d/1k2flDKq3s3ILc91tKvY0Rn3ucAmFFw2L/view)
+![User2 View](https://drive.google.com/file/d/1k2flDKq3s3ILc91tKvY0Rn3ucAmFFw2L)
 
 ---
 
